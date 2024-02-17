@@ -1,0 +1,142 @@
+@media only screen and (max-width: 414px) {
+  .categories-banner-section .card-img-overlay {
+    max-width: 67%;
+  }
+  .categories-banner-section .card-img-overlay .card-title {
+    font-size: 1.5rem;
+  }
+  .footer .small-link-list {
+    justify-content: center;
+  }
+  .footer .small-link-list li a {
+    padding: 0px 10px;
+    font-size: 12px;
+  }
+  .cards-list-header {
+    padding: 10px !important;
+  }
+  .cards-list-header label {
+    margin-right: 10px;
+  }
+  .pricing .price-info .btn-price {
+    margin: 10px auto;
+  }
+  .secondary-header .mega-dropdown-menu .right-box {
+    margin-top: 0px;
+  }
+  .secondary-header .mega-dropdown:hover .mega-dropdown-menu {
+    max-height: 37vh;
+    overflow-y: scroll;
+  }
+  .profile-box-body {
+    display: inline-block !important;
+  }
+  #chatter_form_editor .row .col-md-1 {
+    position: absolute;
+    right: -10px;
+    width: auto;
+    top: -10px;
+  }
+  .reviews-box-section video {
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    width: 95%;
+  }
+  .form-box .forgot-text-box a {
+    display: inline;
+  }
+  .pet-features-box .row .col {
+    width: 100%;
+    background: transparent !important;
+  }
+  .main-slider-section .main-slider .slick-slide {
+    background-position: center;
+    height: 95px;
+    background-size: cover;
+  }
+  .main-slider-section .main-slider-desc-box {
+    margin: 110px 0px 15px 0px;
+    padding: 0px;
+  }
+  .main-slider-section .main-slider {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  span.chatter_posts h1 {
+    font-size: 16px;
+  }
+  #chatter.discussion #new_response #new_discussion {
+    margin: 0px !important;
+    width: 100% !important;
+  }
+  .pagination {
+    margin-top: 15px;
+    justify-content: center;
+  }
+  .sidebar-body {
+    max-height: 80vh;
+    overflow-y: scroll;
+  }
+  .p-card-small .card-footer-box .buttons-list li {
+    height: 40px;
+  }
+  .p-card-small .card-footer-box .buttons-list li + li .dropdown {
+    top: -7px;
+  }
+  .has-float-label .form-control:placeholder-shown:not(:focus) + label {
+    overflow: initial;
+  }
+  #reportAdModal .box-title {
+    width: 90% !important;
+  }
+  .chatter_body h1 {
+    font-size: 14px !important;
+  }
+}
+
+@media (min-width: 415px) and (max-width: 567px) {
+  .pet-features-box .row .col {
+    width: 100%;
+    background: transparent !important;
+  }
+  #chatter.discussion #new_response #new_discussion {
+    margin: 0px !important;
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 568px) and (max-width: 890px) {
+  .similar-pets-slider .card-title {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+@media only screen and (max-device-width: 640px),
+  only screen and (max-device-width: 667px),
+  only screen and (max-width: 480px) {
+  .time {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .relocate-section {
+    background-position: top right;
+    display: flex;
+    align-items: flex-end;
+  }
+  .relocate-section .section-title {
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 567px) {
+  .e-card-landscape .price-box del {
+    display: inline-block;
+  }
+  .e-card-landscape .price-box del:before {
+    display: none;
+  }
+}
