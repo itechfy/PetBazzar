@@ -1,3 +1,3 @@
 # PetBazzar
 
-![alt text](https://github.com/showlen007/PetBazzar/blob/master/img/logo1.png?raw=true)
+![alt text](https://avatars.githubusercontent.com/u/127476280?v=4)
