@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /save-ad
+Disallow: /save-product
+Disallow: /ajax_store
+Disallow: /report-ad
+Disallow: /auth/google
+Sitemap: sitemap.xml
+
